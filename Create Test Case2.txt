@@ -1,0 +1,10 @@
+class CreateTestCase2{
+
+public static void main(String[] args){
+
+String[] AllNames={"Amrit","Jashmin","Harpreet","Komal","Karan"};
+
+System.out.println("AllNames: "+ AllNames);
+}
+}
+
