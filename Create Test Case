@@ -1,0 +1,6 @@
+class CreateTestCase{
+    public static void main (String[] args){
+      String HelloWorld;
+      System.out.println("Hello World");
+    }
+  }
